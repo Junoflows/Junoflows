@@ -15,13 +15,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h4> more about me</h4>
+<a href="https://carnation-toucan-d4a.notion.site/Song-Junho-93f3fad3cba1467da829c9dd6dbbdc01" target="_blank" style="border: 1px solid black; padding: 5px;">
+  <img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&amp;&logo=Notion&amp;&logoColor=black&amp;"/>
+</a>
+
+<br>
+
+<div align="center">
+  
+# Skills
 
 
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)<br/>
-![vs code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+<h4>once I've used</h4>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> &nbsp
+<br>
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> &nbsp
+<br>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> &nbsp
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junoflows)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junoflows)
