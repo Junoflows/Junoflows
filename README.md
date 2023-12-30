@@ -1,26 +1,15 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=FAEBD7&height=300&section=header&text=Junoflow&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
 
-<!--
-**Junoflows/Junoflows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 안녕하세요 / Hi there 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h4> more about me</h4>
 <a href="https://carnation-toucan-d4a.notion.site/Song-Junho-93f3fad3cba1467da829c9dd6dbbdc01" target="_blank" style="border: 1px solid black; padding: 5px;">
   <img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&amp;&logo=Notion&amp;&logoColor=black&amp;"/>
 </a>
 
-<br>
+안녕하세요! 끊임없이 도전하고 시도하는 데이터 사이언티스트를 꿈꾸는 송준호입니다. <br/>
+데이터를 논리적인 사고로 바라보고 분석하고 있습니다. <br/>
+도메인 지식을 키우기 위해 다양한 분야의 데이터를 접하려고 노력하고 있습니다. <br/>
+모두가 함께 일하고 싶어하는 데이터 사이언티스트가 되겠습니다!
 
 <div align="center">
   
