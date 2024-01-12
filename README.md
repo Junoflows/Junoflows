@@ -4,6 +4,7 @@
 
 <a href="https://carnation-toucan-d4a.notion.site/Song-Junho-93f3fad3cba1467da829c9dd6dbbdc01" target="_blank" style="border: 1px solid black; padding: 5px;">
   <img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&amp;&logo=Notion&amp;&logoColor=black&amp;"/>
+  
 </a>
 
 안녕하세요! 끊임없이 도전하고 시도하는 데이터 사이언티스트를 꿈꾸는 송준호입니다. <br/>
