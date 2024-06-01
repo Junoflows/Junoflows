@@ -3,7 +3,7 @@
 ### 👋 안녕하세요 / Hi there 
 
 <a href="https://carnation-toucan-d4a.notion.site/Song-Junho-93f3fad3cba1467da829c9dd6dbbdc01" target="_blank" style="border: 1px solid black; padding: 5px;">
-  <img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&amp;&logo=Notion&amp;&logoColor=black&amp;"/>
+  <img src="https://img.shields.io/badge/CV-ffffff?style=flat-square&amp;&logo=Notion&amp;&logoColor=black&amp;"/>
   
 </a>
 
