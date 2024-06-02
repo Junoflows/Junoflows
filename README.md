@@ -7,7 +7,7 @@
 + Department of BigData Analytics (Double major)
 + 010-7557-1381
 + 1999junho@naver.com
-+ [CV](https://carnation-toucan-d4a.notion.site/Song-Junho-93f3fad3cba1467da829c9dd6dbbdc01)
++ [CV](https://junoflows.notion.site)
   
   
 # Skills
