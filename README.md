@@ -7,7 +7,7 @@
 + Department of BigData Analytics (Double major)
 + 010-7557-1381
 + 1999junho@naver.com
-+ [CV](https://junoflows.notion.site)
++ https://junoflows.notion.site
   
   
 # Skills
