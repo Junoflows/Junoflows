@@ -8,7 +8,7 @@
 + 010-7557-1381
 + 1999junho@naver.com
 + https://junoflows.notion.site
-  
++ Computer Vision, Machine Learning, data science
   
 # Skills
 <div align="center">
