@@ -25,10 +25,4 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> &nbsp
 
-
-# 📖 Github stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junoflows)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junoflows)
-
 </div>
