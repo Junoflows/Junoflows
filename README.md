@@ -5,6 +5,6 @@
 + University of Seoul
 + Department of Mathematics
 + Department of BigData Analytics (Double major)
-+ 1999junho@naver.com
++ sjunoflow@gmail.com
 + LLM, Computer Vision, data science
 
