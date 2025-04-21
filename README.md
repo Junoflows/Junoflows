@@ -2,7 +2,7 @@
 
 ### 👋 안녕하세요 
 
-+ University of Seoul
++ SK
 + Department of Mathematics
 + Department of BigData Analytics (Double major)
 + sjunoflow@gmail.com
