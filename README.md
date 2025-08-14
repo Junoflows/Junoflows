@@ -2,7 +2,7 @@
 
 ### 👋 안녕하세요 
 
-+ SK
++ SK AX
 + Department of Mathematics
 + Department of BigData Analytics (Double major)
 + sjunoflow@gmail.com
